@@ -1,0 +1,23 @@
+{
+  "name": "gruntfile",
+  "version": "0.0.0",
+  "description": "An example project showing a better way to organize your gruntfile.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/badsyntax/gruntfile.git"
+  },
+  "author": "Richard Willis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badsyntax/gruntfile/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "load-grunt-tasks": "~0.1.0",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
