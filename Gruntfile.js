@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = function(grunt) {
 
 	// Set the config.

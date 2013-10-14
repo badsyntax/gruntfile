@@ -1,7 +1,8 @@
 module.exports = {
 	files: [
 		'lib/**/*.js',
-		'grunt/**/*.js'
+		'grunt/**/*.js',
+		'*.js'
 	],
 	options: {
 		curly: true,
